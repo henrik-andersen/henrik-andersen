@@ -1,13 +1,8 @@
 Henrik Kenneth Andersen 
-
-Research Assistant 
 --- 
-
+Research Assistant 
 Chemnitz University of Technology 
-
 Institute of Sociology
-
-
 
 <!--
 **henrik-andersen/henrik-andersen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
