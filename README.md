@@ -1,7 +1,10 @@
 Henrik Kenneth Andersen 
+
 Research Assistant 
 --- 
+
 Chemnitz University of Technology 
+
 Institute of Sociology
 
 
