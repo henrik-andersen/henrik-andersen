@@ -2,13 +2,11 @@ Henrik Kenneth Andersen
 --- 
 Research Assistant | Chemnitz University of Technology | Institute of Sociology
 
-I am a research assistant at the Chemnitz University of Technology, Institute of Sociology. 
+I am currently working on my doctoral thesis which is on panel regression in the structural equation modeling framework. I am also interested in and have working on projects focusing on social desirability and pseudo-opinions in surveys.  
 
-I am currently working on my doctoral thesis which is on panel regression in the structural equation modeling framework. 
+The files for my most recent articles can be found on github:
 
-Some of my recent/notable articles: 
-
-Andersen, H. K. (2021). [Equivalent Approaches to Dealing with Unobserved Heterogeneity in Cross-Lagged Panel Models? Investigating the Benefits and Drawbacks of the Latent Curve Model with Structured Residuals and the Random Intercept Cross-Lagged Panel Model](https://github.com/henrik-andersen/equivalent-approaches-clpm). Accepted to Psychological Methods. 
+Andersen, H. K. (2021). [Equivalent Approaches to Dealing with Unobserved Heterogeneity in Cross-Lagged Panel Models? Investigating the Benefits and Drawbacks of the Latent Curve Model with Structured Residuals and the Random Intercept Cross-Lagged Panel Model](https://github.com/henrik-andersen/equivalent-approaches-clpm). Accepted to [Psychological Methods](https://www.apa.org/pubs/journals/met). 
 
 <!--
 **henrik-andersen/henrik-andersen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
