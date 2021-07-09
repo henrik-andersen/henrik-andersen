@@ -2,7 +2,7 @@ Henrik Kenneth Andersen
 --- 
 Research Assistant | Chemnitz University of Technology | Institute of Sociology
 
-![xxx](r-files/cite_plot.png | height=50%)
+<img src="https://github.com/henrik-andersen/henrik-andersen/blob/main/r-files/cite_plot.png", alt="xxx", width="100%", height="50%">
 
 <!--
 **henrik-andersen/henrik-andersen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,4 +17,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![xxx](r-files/cite_plot.png | height=50%)
+
 -->
