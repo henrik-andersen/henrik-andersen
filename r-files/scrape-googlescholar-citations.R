@@ -30,4 +30,6 @@ cite_plot <- ggplot(citations, aes(x = year, y = cites)) +
   scale_x_continuous(name = "Year") + 
   ggtitle("Google Scholar citations per year for Henrik K. Andersen")
 
-print(cite_plot)
+# saveRDS(cite_plot, file = "r-files/cite_plot.Rda")
+ggsave("r-files/cite_plot.png", plot = cite_plot, device = "png")
+
