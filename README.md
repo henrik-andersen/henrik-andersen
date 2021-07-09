@@ -2,7 +2,7 @@ Henrik Kenneth Andersen
 --- 
 Research Assistant | Chemnitz University of Technology | Institute of Sociology
 
-I am currently working on my doctoral thesis which is on panel regression in the structural equation modeling framework. I am also interested in and have working on projects focusing on social desirability and pseudo-opinions in surveys.  
+I am currently working on my doctoral thesis which is on panel regression in the structural equation modeling framework. I am also interested in and have worked on projects focusing on social desirability bias and pseudo-opinions in surveys.  
 
 The files for my most recent articles can be found on github:
 
