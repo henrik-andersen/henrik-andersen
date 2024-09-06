@@ -1,10 +1,10 @@
 Henrik Kenneth Andersen 
 --- 
-Research Assistant | Chemnitz University of Technology | Institute of Sociology
+Academic Assistant (W1) | University of Technology Chemnitz | Institute of Sociology
 
-I am currently working on my doctoral thesis which is on panel regression in the structural equation modeling framework. I am also interested in and have worked on projects focusing on social desirability bias and pseudo-opinions in surveys.  
+I am a postdoc at the University of Technology Chemnitz, Institute of Sociology. My interests include structural equation modeling and longitudinal and panel analysis. I am currently working on projects related to fear of (migrant) crime and right-wing populism, as well as environmental attitudes and behaviours. Previous projects have focused on experimental survey methods for validly measuring sensitive attitudes and behaviours. 
 
-The files for my most recent articles can be found on github:
+The files for some recent articles can be found on github:
 
 Andersen, H. K. (2021). [A closer look at random and fixed effects panel regression in structural equation modeling using `lavaan`](https://github.com/henrik-andersen/random-fixed-effects-sem). *[Structural Equation Modeling: A Multidisciplinary Journal](https://www.tandfonline.com/toc/hsem20/current?gclid=CjwKCAjwxo6IBhBKEiwAXSYBs3gSCunNSU6vQfWxS-11cVImfEaSQ8ten1AMm6zur6EWSyIch50hBRoCCAwQAvD_BwE)*. [https://doi.org/10.1080/10705511.2021.1963255](https://doi.org/10.1080/10705511.2021.1963255)
 
