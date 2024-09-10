@@ -1,6 +1,6 @@
 Henrik Kenneth Andersen 
 --- 
-Academic Assistant (W1) | University of Technology Chemnitz | Institute of Sociology
+Academic Assistant | University of Technology Chemnitz | Institute of Sociology
 
 I am a postdoc at the University of Technology Chemnitz, Institute of Sociology. My interests include structural equation modeling and longitudinal and panel analysis. I am currently working on projects related to fear of (migrant) crime and right-wing populism, as well as environmental attitudes and behaviours. Previous projects have focused on experimental survey methods for validly measuring sensitive attitudes and behaviours. 
 
